@@ -1,0 +1,5 @@
+@include('/layouts/header')
+@include('/kitchen/header')
+@yield('content')
+@include('/kitchen/footer')
+@include('/layouts/footer')
