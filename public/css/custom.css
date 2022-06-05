@@ -1,0 +1,56 @@
+@font-face{
+  font-family: SolHeavy;
+  src: url('/fonts/Sol_Heavy_Regular.ttf');
+}
+
+@font-face{
+  font-family: SolRegular;
+  src: url('/fonts/Sol_Regular.ttf');
+}
+
+.brand {
+  /*font-weight: bold;*/
+  color: white;
+  font-size: 18px;
+}
+
+.logo-lg , .logo-mini, .TechLab{
+  font-family: SolHeavy;
+}
+
+.AppFirstName{
+	color: #3c8dbc;
+}
+
+.AppLastName{
+	color: #444;
+}
+
+.Logo{
+	font-size: 30px;	
+}
+
+.checkbox{
+	height: 20px;
+	width: 20px;
+	cursor: pointer;
+}
+
+.small-box{
+	color: white;
+	/*margin-bottom: px;*/
+}
+
+h4{
+	text-align:center;
+}
+
+/*.content-wrapper, .main-footer{
+	margin-left: 0px;
+}*/
+
+
+
+.main-sidebar{
+	background-color: #222d32;
+}

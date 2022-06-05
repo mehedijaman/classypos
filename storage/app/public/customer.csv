@@ -1,0 +1,4 @@
+ShopID,FirstName,LastName,Address,City,Province,ZipCode,Country,Phone,Email,DateOfBirth,Notes,CustomerImg
+8,asif,akbar,Dhaka,comilla,chittagong,4322,Bangladesh,1812331122,asifakbar@gmail.com,1-10-1970,Singer,msn.jpg
+4,Azhar,Mahmood,IslamabadISlamabad,Islamabad,Pakistan,3244,Pakistan,1812331232,AzharMahmood@gmail.com,01-10-1988,cricketer,gamal.jpg
+4,Gunaratne,Silva,Coconut road,Colombo,Colombo,3211,Sri lanka,23452345234,Guna@gmail.com,1-101990,crickter,gamal.jpeg

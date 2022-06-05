@@ -1,0 +1,24 @@
+.footer {
+  height: 20px;
+  display: block; 
+  position: fixed; 
+  bottom: 0px;
+}
+
+h3{
+  margin-top:-30px;
+}
+
+.btn{
+  display: none;
+}
+
+@font-face{
+	font-family: SolHeavy;
+	src: url('/fonts/Sol_Heavy_Regular.ttf');
+}
+
+
+.TechLab .LabPOS{
+	font-family: SolHeavy;
+}
